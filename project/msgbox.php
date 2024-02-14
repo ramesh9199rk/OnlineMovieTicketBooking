@@ -1,5 +1,5 @@
 <?php
-
+// this is testing
 if(isset($_SESSION['success']))
 {?>
     <div class="alert alert-success alert-dismissible" id='hideMe'>
